@@ -16,11 +16,5 @@
         "psr-4": {
             "Fontis\\CustomerGroupAccess\\": "src"
         }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/vuthuan/customergroupaccess-mage2.git"
-        }
-    ]
+    }
 }
