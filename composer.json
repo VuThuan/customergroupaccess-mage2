@@ -17,10 +17,10 @@
             "Fontis\\CustomerGroupAccess\\": "src"
         }
     },
-    "repositories": {
-        "customergroupaccess-mage2": {
+    "repositories": [
+        {
             "type": "vcs",
             "url": "https://github.com/vuthuan/customergroupaccess-mage2.git"
         }
-    }
+    ]
 }
